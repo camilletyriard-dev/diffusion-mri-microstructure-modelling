@@ -1,0 +1,36 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlx
+*.slx
+*.slxc
+*.mdlp
+*.mdl
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.p
+
+# Data files (large — download separately; see data/README.md)
+data/*.mat
+data/*.txt
+data/*.nii
+data/*.nii.gz
+data/*.zip
+
+# Generated outputs and figures
+results/
+figures/
+*.fig
+*.png
+*.pdf
+!docs/*.pdf
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MATLAB Live Script cache
+.matlab/
