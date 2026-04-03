@@ -212,9 +212,3 @@ If you use this code in your research, please cite:
   url          = {https://github.com/camille-tyriard/diffusion-mri-microstructure-modelling}
 }
 ```
-
----
-
-## License
-
-MIT License. See `LICENSE` for details.
