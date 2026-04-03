@@ -12,6 +12,12 @@ This repository implements a full computational pipeline for **diffusion MRI (dM
 
 All numerical experiments are reproducible from publicly available data. The codebase is written in MATLAB and is structured for clarity, modularity, and scientific correctness.
 
+## Accompanying Report
+
+This repository is accompanied by a scientific report describing the modelling framework, optimisation procedures, uncertainty quantification, and model selection experiments.
+
+**Report:** [`docs/report.pdf`](docs/report.pdf)
+
 ---
 
 ## Scientific Background
