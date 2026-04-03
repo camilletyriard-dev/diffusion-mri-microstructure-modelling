@@ -1,8 +1,4 @@
 # Diffusion MRI Microstructure Modelling
-
-**COMP0118 — Computational Modelling for Biomedical Imaging**  
-*Centre for Medical Image Computing (CMIC), University College London*
-
 ---
 
 ## Overview
@@ -97,9 +93,6 @@ The Zeppelin-and-Stick model is selected by both AIC and BIC, indicating that an
 diffusion-mri-microstructure/
 │
 ├── README.md
-├── LICENSE
-├── CITATION.cff
-├── .gitignore
 │
 ├── data/
 │   └── README.md                        # Data download instructions
