@@ -195,16 +195,6 @@ The posterior $p(\mathbf{x} | \mathbf{A}) \propto \exp(-L(\mathbf{x}) / 2\sigma^
 
 ---
 
-## References
-
-1. Alexander, D.C. (2009). *Modelling, Fitting and Sampling in Diffusion MRI.* In: Visualisation and Processing of Tensor Fields, Springer.
-2. Panagiotaki, E. et al. (2012). Compartment models of the diffusion MR signal in brain white matter: a taxonomy and comparison. *NeuroImage*, 59(3), 2241–2254.
-3. Ferizi, U. et al. (2014). A ranking of diffusion MRI compartment models with in vivo human brain data. *Magnetic Resonance in Medicine*, 72(6), 1785–1792.
-4. Ferizi, U. et al. (2017). Diffusion MRI microstructure models with in vivo human brain Connectome data: results from a multi-group comparison. *NMR in Biomedicine*.
-5. Zhang, H. et al. (2012). NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. *NeuroImage*, 61(4), 1000–1016.
-
----
-
 ## Citation
 
 If you use this code in your research, please cite:
