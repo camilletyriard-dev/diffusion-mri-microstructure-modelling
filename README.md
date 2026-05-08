@@ -180,17 +180,8 @@ run('scripts/run_section3_model_selection.m')
 ### Global Minimum Estimation
 
 The probability of identifying the global minimum in a single random-start run is estimated empirically as:
-$$
-\hat{p}_\text{global}
-=
-\frac{
-\left| \{ r : L_r < L^* + \epsilon \} \right|
-}{
-N_\text{runs}
-},
-\quad
-\epsilon = 10^{-4} \cdot L^*
-$$
+
+$$\hat{p}_\text{global}=\frac{\left| \{ r : L_r < L^* + \epsilon \} \right|}{N_\text{runs}},\quad\epsilon = 10^{-4} \cdot L^*$$
 
 The minimum number of runs required to find the global minimum with probability $\geq 0.95$ is:
 $$N_{95} = \left\lceil \frac{\log(0.05)}{\log(1 - \hat{p}_\text{global})} \right\rceil$$
